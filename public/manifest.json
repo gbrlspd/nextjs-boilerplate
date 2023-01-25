@@ -1,0 +1,28 @@
+{
+  "name": "Spada - Boilerplate",
+  "short_name": "Boilerplate",
+  "icons": [
+    {
+      "src": "/vercel.svg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/vercel.svg",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/vercel.svg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#373a5e",
+  "background_color": "#373a5e",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "A simple TypeScript React project",
+  "orientation": "portrait"
+}
